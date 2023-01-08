@@ -1172,6 +1172,17 @@ td button {
     padding-right: 0;
     margin-bottom: 20px;
   }
+  .support-section{
+    padding:0 10px;
+  }
+  .support-item{
+    padding: 0;
+    margin-bottom: 30px;
+  }
+ 
+  .support-img {
+    margin-bottom: 10px;
+  }
   .footer-top-items {
     flex-direction: column;
     align-items: center;
